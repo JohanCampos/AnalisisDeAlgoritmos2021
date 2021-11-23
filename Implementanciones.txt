@@ -1,0 +1,10 @@
+*Todas las implementaciones hechas en lenguaje ruby
+Divide y Vencerás:
+ Multiplicación de matrices AB
+ Algoritmo de Strassen
+ Transformada discreta de Fourier
+ Transformada rápida de Fourier
+Codeforces:
+ D-PermutationTransformation (paradigma divide y vencerás, problema analizado en clase)
+ A-PizzaForces (primer problema de codeforces resuelto en clase)
+ A-Countdown (por fuerza bruta)
