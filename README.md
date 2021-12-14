@@ -2,7 +2,6 @@
 Repositorio donde se subirán lo trabajado en analisis de algoritmos
 
 Buenas tardes profesor, en este README pondré todos los programas que realizé a lo largo del curso (tanto en clase, como en Codeforces y en concursos).
-Nota: Todos los programas fueron realizados en lenguaje ruby ya que mi objetivo es obtener el 6.
 
 Realizados y vistos en clase:
 
