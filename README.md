@@ -12,7 +12,7 @@ Realizados y vistos en clase:
     FastFourierTransform.
     MultiplicacionMatricesAB.
     
-  Codeforces
+  Problemas de codeforces vistos en clase:
     C-CreativeSnap (Solo hasta realización casos de prueba).
     D-PermutationTransform (aceptado por el veredicto de codeforces).
     A-PizzaForces (aceptado).
